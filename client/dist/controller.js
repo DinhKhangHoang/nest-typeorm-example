@@ -162,8 +162,8 @@ function setDefaultInfoForUpdateUser(userId) {
 }
 
 function resetForm() {
-  $('#inputAvatarLink').val('');
-  $('#inputFirstName').val('');
-  $('#inputLastName').val('');
-  $('#inputEmail').val('');
+  $('#avatar').val('');
+  $('#firstname').val('');
+  $('#lastname').val('');
+  $('#email').val('');
 }
